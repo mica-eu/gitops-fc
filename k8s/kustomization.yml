@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: micaeu/gitops-fc
-  newTag: latest
+  newTag: f93bc5efe05d381b87501309782f1b28820977fd
